@@ -5,6 +5,7 @@ html, body{
 .column {
   background: black;
   color: white;
+  flex-direction: column;
   font-size: 6em;
   text-align: center;
   flex: 1 1 auto;                                     
