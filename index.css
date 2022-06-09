@@ -8,6 +8,7 @@ html, body{
   flex-direction: column;
   font-size: 6em;
   text-align: center;
+  align-items: center;
   flex: 1 1 auto;                                     
 }
 /* Clear floats after the columns */
