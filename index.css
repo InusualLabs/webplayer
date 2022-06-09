@@ -4,6 +4,8 @@ html, body{
 
 .column {
   background: black;
+  width: 100%;
+  height: 100%;
   color: white;
   flex-direction: column;
   font-size: 6em;
