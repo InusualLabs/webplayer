@@ -2,7 +2,7 @@ html, body{
   background: white;
 }
 
-.row {
+.column {
   background: black;
   color: white;
   font-size: 6em;
@@ -10,7 +10,7 @@ html, body{
   flex: 1 1 auto;                                     
 }
 /* Clear floats after the columns */
-.column {
+.row {
 	padding: 0;
 	margin: 0;
 	display: flex;
