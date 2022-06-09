@@ -1,7 +1,9 @@
 html, body{
   background: white;
 }
-
+.content {
+  width: 100%;
+}
 .column {
   background: black;
   width: 100%;
