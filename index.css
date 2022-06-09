@@ -1,0 +1,19 @@
+html, body{
+  background: white;
+}
+
+.row {
+  background: black;
+  color: white;
+  font-size: 6em;
+  text-align: center;
+  flex: 1 1 auto;                                     
+}
+/* Clear floats after the columns */
+.column {
+	padding: 0;
+	margin: 0;
+	display: flex;
+	align-items: center;
+	vertical-align: middle;
+}
